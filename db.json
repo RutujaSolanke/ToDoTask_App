@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "task_name": "Learn Angular",
+      "description": "Study the Angular framework for building apps",
+      "completed": false
+    }
+  ]
+}
